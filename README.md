@@ -25,3 +25,4 @@
 
 - <b>Mobile: +63 969 059 6345</b>
 - <b>LinkedIn: https://www.linkedin.com/in/gil-laguilles-jr-1675bb120/</b>
+- <b>E-mail: glaguilles@gmail.com</b>
