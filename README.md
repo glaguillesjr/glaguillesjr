@@ -1,28 +1,27 @@
-<h1>Hi, I'm Gil! </h1>
+## Hi, I'm Gil! 👋
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+Systems Engineer with 8 years of hands-on IT experience 
+across two main disciplines:
 
-- <b>Running SIEM Tools using Microsoft Azure Sentinel</b>
-  - [Active Directory Home Lab](https://github.com/Aokiji16/Active-Directory-Home-Lab)
-- <b>My Sample Incident Report</b>
-  - [My Sample Incident Report](https://github.com/glaguillesjr/My-Sample-Incident-Report)
-- <b>File Permissions in Linux guide</b>
-  - [File Permissions in Linux](https://github.com/glaguillesjr/File-permissions-in-Linux)
-  
+**Microsoft Infrastructure**
+- Hybrid Active Directory and Azure AD / Entra ID
+- Microsoft 365 — Exchange, Intune, SharePoint, Teams
+- PowerShell automation for AD and Azure administration
+- Identity management, licensing, and endpoint management
 
-<h2>📄 Certifications</h2>
+**Network Administration**
+- 3 years as Network Administrator and NOC Engineer
+- Routing and switching — Cisco IOS
+- VLANs, VTP, STP, subnetting, inter-VLAN routing
+- P1 incident response and ISP coordination
+- IPSec and SSL VPN troubleshooting
+- Currently practicing: Packet Tracer labs, 
+  FortiGate and Palo Alto concepts
 
-- <b>Cisco Certified Network Associate Bootcamp(200-125)</b>
-- <b>Salesforce Certified Administrator SP21</b>
-- <b>Salesforce Certified Administrator SU11</b>
+**Currently Building**
+- PowerShell automation suite (see repositories)
+- Phishing investigation and SOC analysis skills
+- Home lab — network topology and firewall configuration
+- Working toward AZ-104 (Azure Administrator)
 
-<h2>🎓 Education</h2>
-
-- <b>Bachelor of Science in Information Technology - Bicol University Polangui Campus</b>
-
-
-<h2> 🤳 Connect with me:</h2>
-
-- <b>Mobile: +63 969 059 6345</b>
-- <b>LinkedIn: https://www.linkedin.com/in/gil-laguilles-jr-1675bb120/</b>
-- <b>E-mail: glaguilles@gmail.com</b>
+📍 Philippines | 🕐 Open to offshore AU/UK/US roles
