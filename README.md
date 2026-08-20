@@ -15,8 +15,6 @@ across two main disciplines:
 - VLANs, VTP, STP, subnetting, inter-VLAN routing
 - P1 incident response and ISP coordination
 - IPSec and SSL VPN troubleshooting
-- Currently practicing: Packet Tracer labs, 
-  FortiGate and Palo Alto concepts
 
 **Currently Building**
 - PowerShell automation suite (see repositories)
